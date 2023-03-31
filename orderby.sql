@@ -26,3 +26,4 @@ SELECT TOP 10 ProductID FROM Production.Product ORDER BY ListPrice DESC;
 
 -- Minha solução:
 SELECT TOP 4 name, ProductNumber FROM Production.Product ORDER BY ProductID ASC; 
+
