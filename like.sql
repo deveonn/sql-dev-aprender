@@ -16,4 +16,4 @@ WHERE FirstName LIKE '%jo'
 -- só lembro da metade do valor:
 SELECT * 
 FROM Person.Person
-WHERE FirstName LIKE '%jo%'
+WHERE FirstName LIKE '%jo%' 
