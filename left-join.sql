@@ -3,3 +3,5 @@
 SELECT TOP 10 * FROM sales.PersonCreditCard AS SP
 LEFT JOIN Person.Person AS PP 
 ON SP.BusinessEntityID = PP.BusinessEntityID
+
+-- tem anotações em ./Notes
