@@ -25,7 +25,7 @@ ORDER BY MesVenda;
 
 
 -- DESAFIO:
--- Pegue o mes e ano de qualquer tabela:
+-- Pegue o mês e ano de qualquer tabela:
 
 SELECT DATEPART(MONTH, HireDate) as Mes, DATEPART(YEAR, HireDate) as Ano
 FROM HumanResources.Employee;
