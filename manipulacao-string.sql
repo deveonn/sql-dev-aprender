@@ -52,4 +52,4 @@
     FROM Production.Product
     -- output: AR#5381 (AR-5381)
 
--- TODO: fazer exercício com todos essas funções de manipulação de strings !!!
+-- TODO : fazer exercício com todos essas funções de manipulação de strings !!!
